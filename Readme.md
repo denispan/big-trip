@@ -1,7 +1,9 @@
-# [Проект «Большое путешествие»]()
+# [Проект «Большое путешествие»](https://denispan.github.io/big-trip/)
+[denispan.github.io/big-trip](https://denispan.github.io/big-trip/)</br></br>
 
-[t.me/denpan_bot]() </br></br>
-<img width="200" alt="screenshot" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> </br></br>
+Видео-демонстрация работы приложения </br></br>
+https://github.com/user-attachments/assets/d23463e4-dcc0-408d-affc-5de641ac2578
+
 
 <strong>Большое путешествие - это полезный сервис для планирования маршрута</strong></br>
 Подключен к моей базе данных, поддерживает все операции CRUD (можно создавать новую точку, менять или удалять
@@ -21,10 +23,9 @@
   - Обработка событий
   - Работа с DOM
 
-### [Немного скриншотов](https://t.me/denpan_bot)
+### [Немного скриншотов]([https://t.me/denpan_bot](https://denispan.github.io/big-trip/))
 
-|                                                          Процесс игры                                                           |                                                          Процесс игры                                                          |                                                          Процесс игры                                                          |
+|                                                          Начальный экран                                                           |                                                          Добавление точки маршрута                                                          |                                                          Работа фильтрации                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
-| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/1f409aad-b7a2-4ceb-9bf8-ad3d99a40abf" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/249d0b1a-a708-41c4-b561-28f7a082760d" /> |
-
+| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/fb533b65-c548-431e-8d77-a0be4e5171c3" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/8980f9cf-53a6-409b-8046-9471a1e7c740" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/660c101f-2f86-40af-80dc-d4293e9fcf8e" /> |
 
