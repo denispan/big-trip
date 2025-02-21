@@ -1,7 +1,7 @@
 # [Проект «Большое путешествие»](https://denispan.github.io/big-trip/)
 [denispan.github.io/big-trip](https://denispan.github.io/big-trip/)</br></br>
 
-Видео-демонстрация работы приложения </br></br>
+<b>Видео-демонстрация работы приложения</b>
 <video width="630" height="480" src="https://github.com/user-attachments/assets/203c6ddd-63ae-449b-b978-70167ae763c4" />
 
 <strong>Большое путешествие - это полезный сервис для планирования маршрута</strong></br>
