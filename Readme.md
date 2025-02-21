@@ -2,8 +2,7 @@
 [denispan.github.io/big-trip](https://denispan.github.io/big-trip/)</br></br>
 
 Видео-демонстрация работы приложения </br></br>
-https://github.com/user-attachments/assets/d23463e4-dcc0-408d-affc-5de641ac2578
-
+<video width="630" height="480" src="https://github.com/user-attachments/assets/203c6ddd-63ae-449b-b978-70167ae763c4" />
 
 <strong>Большое путешествие - это полезный сервис для планирования маршрута</strong></br>
 Подключен к моей базе данных, поддерживает все операции CRUD (можно создавать новую точку, менять или удалять
